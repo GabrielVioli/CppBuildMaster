@@ -1,4 +1,2 @@
 # Ignorar diretórios de build e binários
-obj/
-bin/
 output/
